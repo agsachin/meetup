@@ -14,7 +14,7 @@ This meetup will take us through the various streaming technologies such as Stor
 
 • Comparison of Spark Streaming with other streaming technologies
 
-• Benchmark of Spark Streaming (with code walkthrough)
+• How to Benchmark Spark Streaming (with code walkthrough)
 
 We will supplement theory concepts with sufficient examples 
 
